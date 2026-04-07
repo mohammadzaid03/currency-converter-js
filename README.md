@@ -11,6 +11,7 @@ HTML, CSS, JavaScript
 ✔️ Fast performance
 
 🌐 Live Demo: https://your-live-link.netlify.app
+
 💻 GitHub: https://github.com/mohammadzaid03/currency-converter-js.git
 
 This project helped me understand API integration and async JavaScript.
