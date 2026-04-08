@@ -10,7 +10,7 @@ HTML, CSS, JavaScript
 ✔️ Clean UI
 ✔️ Fast performance
 
-🌐 Live Demo: https://your-live-link.netlify.app
+🌐 Live Demo: https://mohammadzaid03.github.io/currency-converter-js/
 
 💻 GitHub: https://github.com/mohammadzaid03/currency-converter-js.git
 
